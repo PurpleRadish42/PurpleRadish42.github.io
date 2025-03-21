@@ -6,3 +6,5 @@
 
 If you want to give me a job, check me out on
 <a href="https://www.linkedin.com/in/r-abhijit-srivathsan-33b8b42b8" target="_blank">LinkedIn</a>
+<br>
+Here's my <a href="https://www.github.com/purpleradish42" target="_blank">GitHub</a> too :)
